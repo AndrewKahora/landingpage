@@ -1,0 +1,51 @@
+body{
+        
+}
+.words{
+    font-family: 'Bangers', cursive;
+    color:#ffffff;
+    font-size: 38px;
+    margin-left: 32px 
+    
+}
+.logo{
+    font-family: 'PT Serif Caption', serif;
+    text-align:right;
+    background-color: black;
+    color: #91910c;
+    width: 470px;
+    font-size: 85px;
+    margin-left: 550px;
+    
+        
+}
+.logo1{
+    font-family: 'PT Serif Caption', serif;
+    text-align: right;
+    background-color: black;
+    color: #91910c;
+    width:600px;
+    font-size: 75px;
+    margin-left: 380;
+}
+.pager{
+    background-image: url(../images/djkhci.jpg);
+    width: 1027px;
+    height: 727px;
+    background-repeat: no-repeat;
+}
+.paragraph{
+    text-align: center;
+    color: #ffffff;
+    font-size: 34px;
+}
+.bigword{
+    color: #ffffff;
+    margin-left: 100px;
+    font-family: 'Bangers', cursive;
+    font-size: 50px;
+}
+.big{
+    font font-size: 40px;
+    margin-left: 20px;
+}
